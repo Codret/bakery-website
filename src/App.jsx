@@ -8,29 +8,29 @@ const products = [
     id: 1,
     name: "Chocolate Fudge Cake",
     price: "$18.99",
-    image: "public/cake/Chocolate Fudge Cake.png",
+    image: "/cake/Chocolate Fudge Cake.png",
   },
   {
     id: 2,
     name: "Strawberry Cheesecake",
     price: "$15.99",
-    image: "public/cake/Strawberry Cheesecake.png",
+    image: "/cake/Strawberry Cheesecake.png",
   },
   {
     id: 3,
     name: "Blueberry Muffin",
     price: "$4.99",
-    image: "public/cake/Blueberry Muffin.png",
+    image: "/cake/Blueberry Muffin.png",
   },
 ];
 
 const galleryImages = [
-  "public/cake/g1.png",
-  "public/cake/g2.png",
-  "public/cake/g3.png",
+  "/cake/g1.png",
+  "/cake/g2.png",
+  "/cake/g3.png",
   "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=600&q=80",
-  "public/cake/g4.png",
-  "public/cake/g5.png"
+  "/cake/g4.png",
+  "/cake/g5.png"
 ];
 
 const moreCakes = [
@@ -38,19 +38,19 @@ const moreCakes = [
     id: 4,
     name: "Red Velvet Cake",
     price: "$16.99",
-    image: "public/cake/Red Velvet Cake.png",
+    image: "/cake/Red Velvet Cake.png",
   },
   {
     id: 5,
     name: "Lemon Drizzle Cake",
     price: "$13.49",
-    image: "public/cake/Lemon Drizzle Cake.png",
+    image: "/cake/Lemon Drizzle Cake.png",
   },
   {
     id: 6,
     name: "Carrot Cake",
     price: "$14.99",
-    image: "public/cake/Carrot Cake.png",
+    image: "/cake/Carrot Cake.png",
   },
 ];
 
